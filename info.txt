@@ -3,5 +3,5 @@ first_name = samrat
 last_name = biswas
 adress = khulna
 city = khulna
-state = AL
-zip_code = 10000
+state = DE
+zip_code = 19702
