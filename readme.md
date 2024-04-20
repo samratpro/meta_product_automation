@@ -1,5 +1,5 @@
 ```commandline
-python3 -m venv env
+python -m venv env
 ```
 ```commandline
 source env/bin/activate
